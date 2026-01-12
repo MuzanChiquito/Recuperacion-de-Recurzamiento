@@ -1,0 +1,12 @@
+C:\Users\crist\Documents\SharpDevelop Projects\SistemaEscolar\SistemaEscolar\obj\Debug\SistemaEscolar.csprojResolveAssemblyReference.cache
+C:\Users\crist\Documents\SharpDevelop Projects\SistemaEscolar\SistemaEscolar\obj\Debug\SistemaEscolar.FrmAlumno.resources
+C:\Users\crist\Documents\SharpDevelop Projects\SistemaEscolar\SistemaEscolar\obj\Debug\SistemaEscolar.FrmDatosAlumno.resources
+C:\Users\crist\Documents\SharpDevelop Projects\SistemaEscolar\SistemaEscolar\obj\Debug\SistemaEscolar.FrmLogin.resources
+C:\Users\crist\Documents\SharpDevelop Projects\SistemaEscolar\SistemaEscolar\obj\Debug\SistemaEscolar.FrmMenu.resources
+C:\Users\crist\Documents\SharpDevelop Projects\SistemaEscolar\SistemaEscolar\obj\Debug\SistemaEscolar.FrmNumeros.resources
+C:\Users\crist\Documents\SharpDevelop Projects\SistemaEscolar\SistemaEscolar\obj\Debug\SistemaEscolar.FrmPromedio.resources
+C:\Users\crist\Documents\SharpDevelop Projects\SistemaEscolar\SistemaEscolar\obj\Debug\SistemaEscolar.csproj.GenerateResource.Cache
+C:\Users\crist\Documents\SharpDevelop Projects\SistemaEscolar\SistemaEscolar\bin\Debug\SistemaEscolar.exe
+C:\Users\crist\Documents\SharpDevelop Projects\SistemaEscolar\SistemaEscolar\bin\Debug\SistemaEscolar.pdb
+C:\Users\crist\Documents\SharpDevelop Projects\SistemaEscolar\SistemaEscolar\obj\Debug\SistemaEscolar.exe
+C:\Users\crist\Documents\SharpDevelop Projects\SistemaEscolar\SistemaEscolar\obj\Debug\SistemaEscolar.pdb
