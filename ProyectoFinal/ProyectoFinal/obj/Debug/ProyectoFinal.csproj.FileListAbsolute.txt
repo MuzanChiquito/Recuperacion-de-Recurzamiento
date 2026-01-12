@@ -1,0 +1,17 @@
+C:\Users\crist\Documents\SharpDevelop Projects\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csprojResolveAssemblyReference.cache
+C:\Users\crist\Documents\SharpDevelop Projects\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FrmLogin.resources
+C:\Users\crist\Documents\SharpDevelop Projects\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.Cache
+C:\Users\crist\Documents\SharpDevelop Projects\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\crist\Documents\SharpDevelop Projects\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\crist\Documents\SharpDevelop Projects\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\crist\Documents\SharpDevelop Projects\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\crist\Documents\SharpDevelop Projects\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FrmFactorialFibonacci.resources
+C:\Users\crist\Documents\SharpDevelop Projects\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FrmAreas.resources
+C:\Users\crist\Documents\SharpDevelop Projects\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FrmPerimetros.resources
+C:\Users\crist\Documents\SharpDevelop Projects\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FrmVolumen.resources
+C:\Users\crist\Documents\SharpDevelop Projects\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FrmConversiones.resources
+C:\Users\crist\Documents\SharpDevelop Projects\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FrmBoleta.resources
+C:\Users\crist\Documents\SharpDevelop Projects\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FrmEmpleados.resources
+C:\Users\crist\Documents\SharpDevelop Projects\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FrmPrincipal1.resources
+C:\Users\crist\Documents\SharpDevelop Projects\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FrmPostres.resources
+C:\Users\crist\Documents\SharpDevelop Projects\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FrmAcercaDe.resources
